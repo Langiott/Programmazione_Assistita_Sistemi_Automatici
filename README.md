@@ -1,4 +1,5 @@
 # Programmazione_Assistita_Sys_Automatici
+Il corso tratta il controllo di sistemi dinamici complessi, in particolare quelli con più ingressi e uscite (MIMO). Si studiano tecniche avanzate per l'analisi, la progettazione del controllo, e la gestione delle incertezze nei sistemi. Viene fatto largo uso di MATLAB e Yalmip per risolvere problemi pratici, come l'inseguimento di segnali, la reiezione dei disturbi e il controllo robusto.
 
 ## Teoria 
 - Sistemi Lineari, Stazionari, SISO (Single Input Single Output)
